@@ -1,0 +1,27 @@
+Roteiro Javascript
+
+alert
+variaveis
+console.log
+array e dicionário
+condicional (If else)
+Laços de repetição while e for
+push, pop e lengh
+reverse array
+to string para array
+join para array
+variavel global / local
+replace
+lowercase, uppercase
+redirecionar para outro página
+date
+function
+dom
+getelement
+inner HTML
+onclick
+onmouseover
+onchange
+onload
+onmouseover
+onmouseout
